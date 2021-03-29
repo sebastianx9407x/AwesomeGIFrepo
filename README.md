@@ -25,3 +25,6 @@ pyenv global 3.6.4
 eval "$(pyenv init -)" >> ~/.bash_profile
 python3 --version
 
+## Start Notebook 
+source venv/bin/activate 
+jupyter notebook
