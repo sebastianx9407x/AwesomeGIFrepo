@@ -8,6 +8,7 @@ pip install tensorflow-hub
 pip install pandas
 pip install numpy
 pip install bert-for-tf2 sentencepiece
+pip install dlib
 
 ## Roll back python version (for tensorflow)
 inside venv: 
