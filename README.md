@@ -32,8 +32,20 @@ process the features of reddit data set with bert method
 process the features of reddit data set with bag of words method  
 
 ## Sentiment Analysis 
+`Sentiment Analysis/Preprocessing.ipynb`
+used for testing tumblr data and cleaning such data
+`Sentiment Analysis/Sarcasm.ipynb`
+tested and created sarcasm detection model
+`Sentiment Analysis/sarcasmModel.h5` 
+saved sarcasm detection model as h5 file
+`Sentiment Analysis/Sentiment2.ipynb`
+tested and created sentiment detection model
+`Sentiment Analysis/sentimentModel.h5` 
+saved sentiment classification model as h5 file
+`Sentiment Analysis/text2Features.ipynb`
+contains functions that convert text to features for gifs
 ## Data 
-`Data Related/processed gif features data`
+`Data Related/processed gif features data` 
 the extracted features of GIF in reddit data set 
 ## Others 
 ### User Evaluation 
