@@ -33,7 +33,7 @@ process the features of reddit data set with bag of words method
 
 ## Sentiment Analysis 
 `Sentiment Analysis/Preprocessing.ipynb`
-used for testing tumblr data and cleaning such data
+used for testing tumblr data and cleaning such data \n
 `Sentiment Analysis/Sarcasm.ipynb`
 tested and created sarcasm detection model
 `Sentiment Analysis/sarcasmModel.h5` 
