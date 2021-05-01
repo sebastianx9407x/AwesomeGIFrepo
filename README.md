@@ -46,7 +46,23 @@ saved sentiment classification model as h5 file <br />
 contains functions that convert text to features for gifs <br />
 ## Data 
 `Data Related/processed gif features data` 
-the extracted features of GIF in reddit data set 
+contains different datas extracted from gifs <br />
+`Data Related/dataScrapper.ipynb` 
+data scrapper to scrap twitter data <br />
+`Data Related/data_file.json` 
+contains example of most recent twitter json formated data   <br />
+`Data Related/keys.json` 
+contains twitter keys for api <br />
+`Data Related/processed_df1.csv` 
+proccessed data fram
+`Data Related/reddit.json` 
+contains example of most recent reddit json formated data  <br />
+`Data Related/redditScrapper.ipynb` 
+data scrapper to scrap reddit data<br />
+`Data Related/reddit_data_brightness`
+reddit data brigthness from gifs<br />
+`Data Related/reddit_data_cleaned.csv` 
+cleaned extracted reddit data<br />
 ## Others 
 ### User Evaluation 
 We created a google survey and asked people to rate how fit they think the GIf is in the conversation. 
