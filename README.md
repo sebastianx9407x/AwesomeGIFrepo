@@ -54,7 +54,7 @@ contains example of most recent twitter json formated data   <br />
 `Data Related/keys.json` 
 contains twitter keys for api <br />
 `Data Related/processed_df1.csv` 
-proccessed data fram
+proccessed data frame <br />
 `Data Related/reddit.json` 
 contains example of most recent reddit json formated data  <br />
 `Data Related/redditScrapper.ipynb` 
