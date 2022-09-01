@@ -1,5 +1,6 @@
 # Documentation for Animated GIfs project 
-### Get started 
+
+### Get startet
 in terminal, run `source venv/bin/activate` 
 ## Pipeline 
 `Pipeline/Pipeline Reddit.ipynb`
